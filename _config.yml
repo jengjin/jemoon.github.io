@@ -324,3 +324,5 @@ defaults:
       share: true 
       related: true
       show_data: true
+
+data format: "%Y-%m-%d"
